@@ -1,1 +1,1 @@
-web: yarn add @nestjs/cli -D && npm run build && npm run start:prod
+web: npm run build && npm run start:prod
